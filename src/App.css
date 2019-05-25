@@ -31,3 +31,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+@font-face {
+  font-family: 'menloregular';
+  src: url('./Styles/fonts/menlo-regular-webfont.woff2') format('woff2'),
+       url('./Styles/fonts/menlo-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+body {
+  font-family: 'menloregular';
+  src: url('./Styles/fonts/menlo-regular-webfont.woff2') format('woff2'),
+       url('./Styles/fonts/menlo-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
