@@ -1,5 +1,8 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  margin-right: 20vw;
+  margin-left: 20vw; 
+  margin-top: 5%;
 }
 
 .App-logo {
@@ -48,4 +51,5 @@ body {
        url('./Styles/fonts/menlo-regular-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
+  font-weight: 400;
 }
